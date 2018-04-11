@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Game library</string>
+    <string name="mainText">Welcome To Your Game Library</string>
+    <string name="explanation">In this app you can make your own game library and add to your library.</string>
+    <string name="listGames">List Games</string>
+    <string name="addButton">Add Game</string>
+    <string name="title">Title:</string>
+    <string name="genre">Genre:</string>
+    <string name="creator">Creator:</string>
+    <string name="btnPost">Post Data</string>
+</resources>
